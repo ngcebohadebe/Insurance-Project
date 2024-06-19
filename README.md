@@ -3,7 +3,7 @@ Show drafts
 volume_up
 
 ## NTH Insurance Cracks Down on Fraud with Machine Learning
-###The Challenge:
+### The Challenge:
 NTH Insurance, a leading provider, faces a significant threat: fraudulent claims. These deceptive acts not only cost the company millions but also inflate premiums for honest customers. To combat this challenge, NTH turned to the power of machine learning.
 ### Enter Machine Learning:
 Our team developed a fraud detection system using decision tree algorithms. These algorithms mimic a series of yes-or-no questions to ultimately classify data points. In this case, the data points are insurance claims, with the goal of classifying them as legitimate or fraudulent.
@@ -14,7 +14,7 @@ Using a decision tree model for fraud detection offers numerous benefits:
 Reduced Losses: Accurate identification of fraudulent claims translates to significant cost savings for NTH.
 Improved Efficiency: The model automates the initial screening process, flagging suspicious claims for further investigation. This frees up adjusters' time for complex cases.
 ### Fairer Premiums: By mitigating fraudulent claims, NTH can potentially lower premiums for honest customers, leading to increased satisfaction and loyalty.
-Enhanced Risk Management: Insights gained from the model can help NTH identify areas with higher fraud prevalence, allowing for targeted risk mitigation strategies.\
+### Enhanced Risk Management: Insights gained from the model can help NTH identify areas with higher fraud prevalence, allowing for targeted risk mitigation strategies.\
 ### Looking Ahead: Refining the Model
 While the initial decision tree model proved effective, we achieved a 100% detection rate, which often indicates overfitting due to limited training data. Although impressive at first glance, this high rate suggests the model might be memorizing specific patterns in the training data rather than learning generalizable insights. As a result, it might struggle to identify fraud in unseen data.
 ### Next Steps: Building a More Robust System
