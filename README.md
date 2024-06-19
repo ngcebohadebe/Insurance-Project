@@ -16,7 +16,7 @@ Accurate identification of fraudulent claims translates to significant cost savi
 The model automates the initial screening process, flagging suspicious claims for further investigation. This frees up adjusters' time for complex cases.
 #### 3. Fairer Premiums: 
 By mitigating fraudulent claims, NTH can potentially lower premiums for honest customers, leading to increased satisfaction and loyalty.
-###$ 4. Enhanced Risk Management: 
+#### 4. Enhanced Risk Management: 
 Insights gained from the model can help NTH identify areas with higher fraud prevalence, allowing for targeted risk mitigation strategies.\
 ### Looking Ahead: Refining the Model
 While the initial decision tree model proved effective, we achieved a 100% detection rate, which often indicates overfitting due to limited training data. Although impressive at first glance, this high rate suggests the model might be memorizing specific patterns in the training data rather than learning generalizable insights. As a result, it might struggle to identify fraud in unseen data.
