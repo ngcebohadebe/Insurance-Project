@@ -17,6 +17,6 @@ The model automates the initial screening process, flagging suspicious claims fo
 #### 3. Fairer Premiums: 
 By mitigating fraudulent claims, NTH can potentially lower premiums for honest customers, leading to increased satisfaction and loyalty.
 #### 4. Enhanced Risk Management: 
-Insights gained from the model can help NTH identify areas with higher fraud prevalence, allowing for targeted risk mitigation strategies.\
+Insights gained from the model can help NTH identify areas with higher fraud prevalence, allowing for targeted risk mitigation strategies.
 ### Looking Ahead: Refining the Model
 While the initial ANN model proved effective, we achieved a 94,4% accuracy in detection with the validation set and a further 94% with the unseen test set, which indicates slit overfitting. Although impressive at first glance, the higher rate of the validation set suggests the model might be memorizing specific patterns in the training data rather than learning generalizable insights. As a result, it might struggle to identify fraud in unseen data.
